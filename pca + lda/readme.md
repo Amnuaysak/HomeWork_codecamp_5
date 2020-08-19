@@ -1,1 +1,1 @@
-CodeCamp_5 อำนวยศักดิ ทวีลาภ PCA
+CodeCamp_5 อำนวยศักดิ ทวีลาภ PCA + LDA
